@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Beacon Scanner</string>
+  <string name="start_scan">Start looking around ...</string>
+  <string name="stop_scan">... stop looking around!</string>
+</resources>

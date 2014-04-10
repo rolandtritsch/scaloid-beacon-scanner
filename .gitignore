@@ -1,0 +1,13 @@
+bin/
+gen/
+libs/
+target/
+project/project/
+
+.ensime
+.ensime_lucene/
+
+local.properties
+project.properties
+
+tmp/
