@@ -6,6 +6,7 @@ project/project/
 
 .ensime
 .ensime_lucene/
+.ensime_cache/
 
 local.properties
 project.properties
